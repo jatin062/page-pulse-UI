@@ -34,12 +34,6 @@ npm install
 npm run dev
 ```
 
-5. Open the application in your browser:
-
-```
-http://localhost:5173
-```
-
 **Backend**
 
 1. Clone the backend repository.
@@ -48,15 +42,6 @@ http://localhost:5173
 
 3. Build and run the Spring Boot application using:
 
-```bash
-mvn spring-boot:run
-```
-
-4. Open the backend server:
-
-```
-http://localhost:8080
-```
 
 **Environment Variable**
 
